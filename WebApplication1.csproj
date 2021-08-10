@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\images\h1.jpg" />
+    <None Include="wwwroot\images\h2.jpeg" />
+  </ItemGroup>
+
 </Project>
